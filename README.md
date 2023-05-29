@@ -1,2 +1,2 @@
 # CrudPHP
-Crud de practica PHP
+Crud de práctica PHP, tipo full, con una conexión MySQL
